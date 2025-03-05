@@ -7,7 +7,7 @@ const ComplianceDashboard: React.FC = () => {
 
   return (
     <div className="dashboard">
-      <h1>Compliance Monitoring Dashboard</h1>
+      <h1>Compliance Monitoring Dashboardddddddd</h1>
       <div className="summary">
         {/* <p>Total Messages: {complianceData.totalMessages}</p>
         <p>Total Violations: {complianceData.totalViolations}</p> */}
